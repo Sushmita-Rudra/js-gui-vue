@@ -6,7 +6,7 @@ const sketchCount = new Vue({
   el: '#sketchCount',
   data: {
     yourName: 'Rudra',
-    stories: 5,
+    stories: 7,
     sketchesPerStory: 3
   },
   computed: {
